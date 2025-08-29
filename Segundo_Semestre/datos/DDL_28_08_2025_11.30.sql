@@ -56,7 +56,7 @@ CREATE TABLE IF NOT EXISTS biblioteca(
 
 
 CREATE TABLE IF NOT EXISTS lector(
-    id_lector INT AUTO_INCREMENT,
+    id_lector INT AUTO_INCREMENT
 
 );
 
